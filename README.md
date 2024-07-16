@@ -1,5 +1,5 @@
 # 💫 About Me:
-idk
+Learning C# <3
 
 
 # 💻 Tech:
