@@ -4,7 +4,7 @@
 
 <p align="left">✨ IDK.</p>
 
-![EzuaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzuaR&show_icons=true&theme=dark)
+![EzuaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzuaR&show_icons=true&theme=tokyonight)
 ###
 
 <h1 align="left">Tech:</h1>
